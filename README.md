@@ -1,4 +1,4 @@
-# Matrix Switch Controller Fixer
+# Linux Switch Controller Fixer
 
 A lightweight, Matrix-themed Python GUI utility for Linux (Mint/Ubuntu) that fixes third-party Nintendo Switch Pro Controller connectivity issues and force-restarts Steam Input.
 
