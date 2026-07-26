@@ -6,8 +6,8 @@ import sys
 import tkinter as tk
 from tkinter import messagebox
 
-CONTROLLER_1 = "70:1C:E7:F5:6A:C6"
-CONTROLLER_2 = "30:31:7D:EF:A2:D9"
+CONTROLLER_1 = "YOUR_FIRST_MAC_HERE"
+CONTROLLER_2 = "YOUR_SECOND_MAC_HERE"
 
 def log(msg):
     console.config(state='normal')
